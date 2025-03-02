@@ -91,5 +91,5 @@ day.csv has the following fields:
 
 ## Author
 
-- Your Name (or Team Name)
+- Utkarsh Sanwal
 
